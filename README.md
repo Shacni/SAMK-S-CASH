@@ -117,3 +117,4 @@ Thanks to:
 - **Power Learn Project** for the opportunity  
 - **Supabase, Lovable.dev, MGX, Cursor AI** for tools  
 - The local traders inspiring this build 💚
+- My Pitch Deck:https://www.canva.com/design/DAGo1Yi-f-I/o3Mdf5yNGzSEfvKCY0RoEA/edit?utm_content=DAGo1Yi-f-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
